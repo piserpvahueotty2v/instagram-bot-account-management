@@ -9,9 +9,7 @@ This repository offers a research-driven overview of **Instagram bot accounts**,
 
 ## Introduction
 
-Instagram bot accounts have become increasingly visible across the platform, affecting engagement metrics, creator trust, and overall user safety. These accounts often display automated behavior such as mass following, fake story views, spam comments, or artificial likes—creating misleading signals and enabling abuse at scale.
-
-As Instagram’s detection systems evolve using AI and machine learning, bot activity is becoming harder to sustain and more costly for those involved. This repository documents how bot accounts function, why they are risky, and how platforms respond—based on policy analysis, technical signals, and observed trends leading into 2026.
+Instagram bot accounts increasingly impact engagement metrics, creator trust, and user safety through automated actions like mass following, fake views, and spam interactions. As Instagram strengthens AI-driven detection systems, bot activity is becoming riskier and harder to sustain; this repository explains how bot accounts operate, why they are harmful, and how platforms respond based on policy, technical signals, and emerging trends.
 
 ---
 
